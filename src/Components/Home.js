@@ -11,7 +11,7 @@ function Home() {
   return (
     
       <div>
-      <h1> PIAIC Boot Camp 2020 : Class 11 - React Router V6</h1>
+      <h1> PIAIC Boot Camp 2020 : Class 13 - Animated React Website which follows the Latest Trends like Animated Illustrations</h1>
       <h2> Student : Muhammad Javaid </h2>
       <h2> Project 05 : Use of Animation Shoe Store </h2>
       <div ref = {ref} style = {{background:"Blue", color : "white", width: "100px", height: "100px"}}>Web Animation</div>
